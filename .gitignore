@@ -1,0 +1,8 @@
+# Ignorar fichero de configuración sensible
+config.yml
+
+# (Opcional) Ignorar otros archivos generados o de configuración personal
+*.pyc
+__pycache__/
+config.yml
+visualsearch.sh

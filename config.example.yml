@@ -1,0 +1,12 @@
+# Fichero de configuración de ejemplo para la aplicación.
+# Copia este fichero a "config.yml" y rellena con tus credenciales reales.
+
+imgBB:
+  # Clave API para la API de imgBB.
+  api_key: "AQUI_TU_IMGBB_API_KEY"
+
+indiTEx:
+  # Client ID para la API de indiTEx.
+  oauth_client_id: "AQUI_TU_OAUTH_CLIENT_ID"
+  # Client Secret para la API de indiTEx.
+  oauth_client_secret: "AQUI_TU_OAUTH_CLIENT_SECRET"
